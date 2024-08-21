@@ -22,7 +22,7 @@
 
 # Food Ordering app
 
-/\*\*
+\*\*
 
 - Header
 - - Logo
@@ -36,10 +36,9 @@
 - Footer
 - - Copyright
 - - Address
-- - Contact
-    \*/
+- - Contact \*
 
-- Two types of ExporT/Import
+- Two types of Export/Import
 
 export default Component;
 import Component from "path";
